@@ -1,0 +1,16 @@
+{
+    "name": "WeRise.dev",
+    "short_name": "werise",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FF6347",
+    "theme_color": "#FF6347",
+    "orientation": "portrait-primary",
+    "icons":[
+        {
+            "src": "https://crm.werise.dev/public/img/favicon-96x96.png",
+            "type": "image/png",
+            "size": "144x144"
+        }
+    ]
+}
